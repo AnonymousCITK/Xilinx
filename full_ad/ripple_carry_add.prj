@@ -1,3 +1,0 @@
-verilog work "half_add.v"
-verilog work "full_add.v"
-verilog work "ripple_carry_add.v"
