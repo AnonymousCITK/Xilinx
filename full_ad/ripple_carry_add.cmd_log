@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/mithisath/14.7/ISE_DS/full_ad/ripple_carry_add.xst" -ofn "/home/mithisath/14.7/ISE_DS/full_ad/ripple_carry_add.syr" 
+xst -intstyle ise -ifn "/home/mithisath/14.7/ISE_DS/full_ad/ripple_carry_add.xst" -ofn "/home/mithisath/14.7/ISE_DS/full_ad/ripple_carry_add.syr" 
